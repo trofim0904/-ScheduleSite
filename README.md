@@ -1,2 +1,2 @@
-# -ScheduleSite
-You can check the website here: timetable.zzz.com.ua
+# ScheduleSite
+You can check the website here: http://timetable.zzz.com.ua/
